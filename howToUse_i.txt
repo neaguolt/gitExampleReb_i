@@ -4,3 +4,6 @@ second commit
 4th commit
 remote commit A
 remote comit B
+
+D local commit
+this is a typo
